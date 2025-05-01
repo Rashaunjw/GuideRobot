@@ -1,0 +1,29 @@
+[0.374s] Invoking command in '/home/student/ws/src/waypoint_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data
+[0.498s] running egg_info
+[0.507s] writing ../../build/waypoint_navigation/waypoint_navigation.egg-info/PKG-INFO
+[0.507s] writing dependency_links to ../../build/waypoint_navigation/waypoint_navigation.egg-info/dependency_links.txt
+[0.507s] writing entry points to ../../build/waypoint_navigation/waypoint_navigation.egg-info/entry_points.txt
+[0.507s] writing requirements to ../../build/waypoint_navigation/waypoint_navigation.egg-info/requires.txt
+[0.507s] writing top-level names to ../../build/waypoint_navigation/waypoint_navigation.egg-info/top_level.txt
+[0.524s] reading manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[0.524s] writing manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[0.524s] running build
+[0.524s] running build_py
+[0.524s] copying waypoint_navigation/our_waypoint.py -> /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation
+[0.525s] running install
+[0.528s] running install_lib
+[0.536s] copying /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation/our_waypoint.py -> /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation
+[0.537s] byte-compiling /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation/our_waypoint.py to our_waypoint.cpython-312.pyc
+[0.538s] running install_data
+[0.538s] running install_egg_info
+[0.547s] removing '/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info' (and everything under it)
+[0.547s] Copying ../../build/waypoint_navigation/waypoint_navigation.egg-info to /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info
+[0.547s] running install_scripts
+[0.605s] Installing nav_to_pose script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.605s] Installing our_waypoint script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.606s] Installing search_box_example script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.606s] Installing sound_player_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.606s] Installing waypoint_lights script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.606s] Installing waypoint_navigation_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[0.606s] writing list of installed files to '/home/student/ws/build/waypoint_navigation/install.log'
+[0.619s] Invoked command in '/home/student/ws/src/waypoint_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data

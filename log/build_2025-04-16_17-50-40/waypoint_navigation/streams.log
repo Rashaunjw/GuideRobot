@@ -1,0 +1,22 @@
+[0.725s] Invoking command in '/home/student/ws/src/waypoint_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data
+[0.909s] running egg_info
+[0.920s] writing ../../build/waypoint_navigation/waypoint_navigation.egg-info/PKG-INFO
+[0.922s] writing dependency_links to ../../build/waypoint_navigation/waypoint_navigation.egg-info/dependency_links.txt
+[0.922s] writing entry points to ../../build/waypoint_navigation/waypoint_navigation.egg-info/entry_points.txt
+[0.922s] writing requirements to ../../build/waypoint_navigation/waypoint_navigation.egg-info/requires.txt
+[0.922s] writing top-level names to ../../build/waypoint_navigation/waypoint_navigation.egg-info/top_level.txt
+[0.945s] reading manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[0.946s] writing manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[0.946s] running build
+[0.946s] running build_py
+[0.947s] running install
+[0.952s] running install_lib
+[0.964s] running install_data
+[0.965s] running install_egg_info
+[0.977s] removing '/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info' (and everything under it)
+[0.977s] Copying ../../build/waypoint_navigation/waypoint_navigation.egg-info to /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info
+[0.978s] running install_scripts
+[1.061s] Installing nav_to_pose script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[1.062s] Installing waypoint_navigation_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[1.062s] writing list of installed files to '/home/student/ws/build/waypoint_navigation/install.log'
+[1.080s] Invoked command in '/home/student/ws/src/waypoint_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data

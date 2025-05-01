@@ -1,0 +1,29 @@
+[1.553s] Invoking command in '/home/student/ws/src/waypoint_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data
+[2.144s] running egg_info
+[2.183s] writing ../../build/waypoint_navigation/waypoint_navigation.egg-info/PKG-INFO
+[2.184s] writing dependency_links to ../../build/waypoint_navigation/waypoint_navigation.egg-info/dependency_links.txt
+[2.184s] writing entry points to ../../build/waypoint_navigation/waypoint_navigation.egg-info/entry_points.txt
+[2.184s] writing requirements to ../../build/waypoint_navigation/waypoint_navigation.egg-info/requires.txt
+[2.184s] writing top-level names to ../../build/waypoint_navigation/waypoint_navigation.egg-info/top_level.txt
+[2.264s] reading manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[2.266s] writing manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[2.266s] running build
+[2.266s] running build_py
+[2.266s] copying waypoint_navigation/search_box_example.py -> /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation
+[2.267s] running install
+[2.278s] running install_lib
+[2.315s] copying /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation/search_box_example.py -> /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation
+[2.317s] byte-compiling /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation/search_box_example.py to search_box_example.cpython-312.pyc
+[2.321s] running install_data
+[2.322s] running install_egg_info
+[2.358s] removing '/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info' (and everything under it)
+[2.359s] Copying ../../build/waypoint_navigation/waypoint_navigation.egg-info to /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info
+[2.360s] running install_scripts
+[2.511s] Installing nav_to_pose script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] Installing our_waypoint script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] Installing search_box_example script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] Installing sound_player_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] Installing waypoint_lights script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] Installing waypoint_navigation_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.512s] writing list of installed files to '/home/student/ws/build/waypoint_navigation/install.log'
+[2.563s] Invoked command in '/home/student/ws/src/waypoint_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data

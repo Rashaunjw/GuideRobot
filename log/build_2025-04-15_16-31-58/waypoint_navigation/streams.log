@@ -1,0 +1,28 @@
+[1.555s] Invoking command in '/home/student/ws/src/waypoint_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data
+[2.004s] running egg_info
+[2.023s] writing ../../build/waypoint_navigation/waypoint_navigation.egg-info/PKG-INFO
+[2.024s] writing dependency_links to ../../build/waypoint_navigation/waypoint_navigation.egg-info/dependency_links.txt
+[2.025s] writing entry points to ../../build/waypoint_navigation/waypoint_navigation.egg-info/entry_points.txt
+[2.025s] writing requirements to ../../build/waypoint_navigation/waypoint_navigation.egg-info/requires.txt
+[2.026s] writing top-level names to ../../build/waypoint_navigation/waypoint_navigation.egg-info/top_level.txt
+[2.064s] reading manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[2.065s] writing manifest file '../../build/waypoint_navigation/waypoint_navigation.egg-info/SOURCES.txt'
+[2.066s] running build
+[2.066s] running build_py
+[2.067s] copying waypoint_navigation/__init__.py -> /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation
+[2.067s] copying waypoint_navigation/nav_to_pose.py -> /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation
+[2.067s] running install
+[2.082s] running install_lib
+[2.116s] copying /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation/__init__.py -> /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation
+[2.117s] copying /home/student/ws/build/waypoint_navigation/build/lib/waypoint_navigation/nav_to_pose.py -> /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation
+[2.117s] byte-compiling /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation/__init__.py to __init__.cpython-312.pyc
+[2.118s] byte-compiling /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation/nav_to_pose.py to nav_to_pose.cpython-312.pyc
+[2.118s] running install_data
+[2.119s] running install_egg_info
+[2.155s] removing '/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info' (and everything under it)
+[2.155s] Copying ../../build/waypoint_navigation/waypoint_navigation.egg-info to /home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages/waypoint_navigation-0.0.0-py3.12.egg-info
+[2.156s] running install_scripts
+[2.430s] Installing nav_to_pose script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.431s] Installing waypoint_navigation_node script to /home/student/ws/install/waypoint_navigation/lib/waypoint_navigation
+[2.431s] writing list of installed files to '/home/student/ws/build/waypoint_navigation/install.log'
+[2.461s] Invoked command in '/home/student/ws/src/waypoint_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student/ws/build/waypoint_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ws/install/waypoint_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/waypoint_navigation build --build-base /home/student/ws/build/waypoint_navigation/build install --record /home/student/ws/build/waypoint_navigation/install.log --single-version-externally-managed install_data

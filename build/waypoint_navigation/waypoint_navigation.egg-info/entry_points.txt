@@ -1,0 +1,7 @@
+[console_scripts]
+nav_to_pose = waypoint_navigation.nav_to_pose:main
+our_waypoint = waypoint_navigation.our_waypoint:main
+search_box_example = waypoint_navigation.search_box_example:main
+sound_player_node = waypoint_navigation.sound_player_node:main
+waypoint_lights = waypoint_navigation.waypoint_lights:main
+waypoint_navigation_node = waypoint_navigation.waypoint_navigation_node:main

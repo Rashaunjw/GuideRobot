@@ -1,0 +1,2 @@
+[console_scripts]
+wapoint_navigation_node = waypoint_navigation.wapoint_navigation_node:main
